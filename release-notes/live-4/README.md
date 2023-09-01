@@ -1,4 +1,10 @@
 # Live 4
+## 4.1.3 (September 1, 2023)
+
+### New features
+
+* Closed Issue 4.1.3
+
 ## 4.1.2 (September 1, 2023)
 
 ### New features
